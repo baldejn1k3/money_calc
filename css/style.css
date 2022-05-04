@@ -1,0 +1,33 @@
+body{
+    background: darkgray;
+
+}
+.block_content {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.block{
+    display: flex;
+    align-content: center;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+.blockk{
+    display: flex;
+    align-content: center;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    flex-direction: column;
+    flex-wrap: nowrap;
+
+}
+.polz{
+    margin-left: 150px;
+}
+.ret{
+    margin-left: 150px;
+}
